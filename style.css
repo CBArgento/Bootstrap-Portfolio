@@ -1,7 +1,8 @@
 .header {
-    
     width: 100%;
-    background: yellow;
+    background: rgb(212, 212, 212);
+    text-align: center;
+    padding: 10px;
 }
 
 .form {
